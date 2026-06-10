@@ -12,7 +12,7 @@
 
 ---
 
-## ▶ Demo Video (required)
+## ▶ Demo Video
 
 The mandatory simulation demo shows the three vehicles moving along the RSU field and switching their connections in real time.
 
